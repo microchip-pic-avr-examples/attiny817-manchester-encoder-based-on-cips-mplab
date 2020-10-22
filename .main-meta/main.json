@@ -3,7 +3,7 @@
     "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.1.0",
-        "name": "com.microchip.mcu8.mplab.project.attiny817-manchester-encoder-based-on-cips-mplab",
+        "name": "com.microchip.mcu8.mplabx.project.attiny817-manchester-encoder-based-on-cips-mplab",
         "version": "1.0.0",
         "displayName": "Manchester Encoder Based on CIPs",
         "projectName": "attiny817-manchester-encoder-based-on-cips-mplab",
@@ -57,8 +57,6 @@
             "CCL"
         ],
         "keywords": [
-            "",
-            ""
         ],
         "additionalData": {
             "longDescription": {
